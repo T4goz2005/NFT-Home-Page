@@ -17,4 +17,4 @@ O projeto contem a ideia de um card de NFT basico, feito com Html css.</p>
 
 <h2>Oque eu apreendi com esse projeto? </h2>
 
-<center><img src ="https://github.com/T4goz2005/Search-API-GITHUB/assets/116327263/d99561cf-9b75-4d14-acfa-ea605019dbf3"></center>
+<center><img src ="https://github.com/T4goz2005/NFT-Home-Page/assets/116327263/dcd848e3-0834-407b-b490-2e8e728ea545"></center>
