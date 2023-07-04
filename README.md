@@ -13,7 +13,7 @@ O projeto contem a ideia de um card de NFT basico, feito com Html css.</p>
 + HTML5
 + CSS3
 
-<h2>link do Projeto: @</h2>
+<h2>link do Projeto: https://t4goz2005.github.io/NFT-Home-Page/</h2>
 
 <h2>Oque eu apreendi com esse projeto? </h2>
 
